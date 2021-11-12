@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://docs.phynix.gg/blog</id>
+    <title>Phynix Project Blog</title>
+    <updated>2021-11-11T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://docs.phynix.gg/blog"/>
+    <subtitle>Phynix Project Blog</subtitle>
+    <icon>https://docs.phynix.gg/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>welcome</id>
+        <link href="https://docs.phynix.gg/blog/welcome"/>
+        <updated>2021-11-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Thanks for stopping by! Our team hopes to maintain this developer documentation and update it with any changes to the core framework ahead of time. We <3 developers, and will do our best to bring innovation and creativity from other contributors into the Phynix community.]]></summary>
+        <content type="html"><![CDATA[<p>Thanks for stopping by! Our team hopes to maintain this developer documentation and update it with any changes to the core framework ahead of time. We &lt;3 developers, and will do our best to bring innovation and creativity from other contributors into the Phynix community.</p>]]></content>
+        <author>
+            <name>distritic</name>
+            <uri>https://github.com/distritic</uri>
+        </author>
+    </entry>
+</feed>

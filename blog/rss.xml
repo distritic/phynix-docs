@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Phynix Project Blog</title>
+        <link>https://docs.phynix.gg/blog</link>
+        <description>Phynix Project Blog</description>
+        <lastBuildDate>Thu, 11 Nov 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://docs.phynix.gg/blog/welcome</link>
+            <guid>welcome</guid>
+            <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Thanks for stopping by! Our team hopes to maintain this developer documentation and update it with any changes to the core framework ahead of time. We <3 developers, and will do our best to bring innovation and creativity from other contributors into the Phynix community.]]></description>
+            <content:encoded><![CDATA[<p>Thanks for stopping by! Our team hopes to maintain this developer documentation and update it with any changes to the core framework ahead of time. We &lt;3 developers, and will do our best to bring innovation and creativity from other contributors into the Phynix community.</p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>
