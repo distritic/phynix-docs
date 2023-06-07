@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkphynix_docs=self.webpackChunkphynix_docs||[]).push([[1180],{4747:s=>{s.exports=JSON.parse('{"label":"phynix","permalink":"/blog/tags/phynix","allTagsPath":"/blog/tags","count":1}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkphynix_docs=self.webpackChunkphynix_docs||[]).push([[1713],{3457:l=>{l.exports=JSON.parse('[{"label":"phynix","permalink":"/blog/tags/phynix","count":1},{"label":"hello","permalink":"/blog/tags/hello","count":1},{"label":"fivem","permalink":"/blog/tags/fivem","count":1},{"label":"docusaurus","permalink":"/blog/tags/docusaurus","count":1}]')}}]);

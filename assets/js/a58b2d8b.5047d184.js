@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkphynix=self.webpackChunkphynix||[]).push([[180],{4747:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/phynix","name":"phynix","count":1,"permalink":"/blog/tags/phynix"}')}}]);

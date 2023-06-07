@@ -4,16 +4,21 @@
         <title>Phynix Project Blog</title>
         <link>https://docs.phynix.gg/blog</link>
         <description>Phynix Project Blog</description>
-        <lastBuildDate>Thu, 11 Nov 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://docs.phynix.gg/blog/welcome</link>
-            <guid>welcome</guid>
-            <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
+            <guid>https://docs.phynix.gg/blog/welcome</guid>
+            <pubDate>Mon, 05 Jun 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Thanks for stopping by! Our team hopes to maintain this developer documentation and update it with any changes to the core framework ahead of time. We <3 developers, and will do our best to bring innovation and creativity from other contributors into the Phynix community.]]></description>
             <content:encoded><![CDATA[<p>Thanks for stopping by! Our team hopes to maintain this developer documentation and update it with any changes to the core framework ahead of time. We &lt;3 developers, and will do our best to bring innovation and creativity from other contributors into the Phynix community.</p>]]></content:encoded>
+            <category>phynix</category>
+            <category>hello</category>
+            <category>fivem</category>
+            <category>docusaurus</category>
         </item>
     </channel>
 </rss>
