@@ -104,7 +104,7 @@ const config = {
               },
               {
                 label: 'Users',
-                to: '/docs/users/class/get-object',
+                to: '/docs/core/users/get-object',
               },
               {
                 label: 'Items',
