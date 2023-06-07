@@ -4,7 +4,7 @@
 
 ### TriggerServerEventCallback
 
-This export will trigger a server event which acts as a callback to the client. It must be caught using [RegisterServerEventCallback](RegisterServerEventCallback) respectively.
+This export will trigger a server event which acts as a callback to the client. It must be caught using [RegisterServerEventCallback](#RegisterServerEventCallback) respectively.
 
 ```lua title="client/main.lua"
 exports.phynix:TriggerServerEventCallback(eventName --[[string]], ... --[[any]], handler --[[function]]);
@@ -87,7 +87,7 @@ local plate --[[string]] = exports.phynix:GetRandomNumberPlate();
 
 ### RegisterServerEventCallback
 
-This export will register a server event which acts as a callback to the client. It must be triggered using [TriggerServerEventCallback](TriggerServerEventCallback) respectively.
+This export will register a server event which acts as a callback to the client. It must be triggered using [TriggerServerEventCallback](#TriggerServerEventCallback) respectively.
 
 ```lua title="server/main.lua"
 exports.phynix:RegisterServerEventCallback(eventName --[[string]], handler --[[function]]);

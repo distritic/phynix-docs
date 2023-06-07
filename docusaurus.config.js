@@ -9,6 +9,7 @@ const config = {
   title: 'Phynix Project',
   tagline: 'GTA V Framework for FiveM',
   favicon: 'img/favicon.ico',
+  trailingSlash: false,
 
   // Set the production url of your site here
   url: 'https://docs.phynix.gg',

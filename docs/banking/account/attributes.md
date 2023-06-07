@@ -30,7 +30,7 @@ This is the account type. The available types are as follows:
 
 * `business` for business accounts
   
-  The access permissions and ownership of these accounts should be handled by a [business object](business/object/get-object).
+  The access permissions and ownership of these accounts should be handled by a [business object](/docs/business/object/get-object).
 
 * `joint` for joint accounts
 
