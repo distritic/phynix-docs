@@ -12,7 +12,7 @@ const config = {
   trailingSlash: false,
 
   // Set the production url of your site here
-  url: 'https://docs.phynix.gg',
+  url: 'https://phynix.gg',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -62,6 +62,16 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      algolia: {
+        apiKey: '25a81150355879f45f8c58f0ebd57d00',
+        indexName: 'dev_Docusaurus_Px',
+        contextualSearch: true,
+        placeholder: 'Search',
+        appId: '957NGRU8BG',
+      },
+      headerLinks: [
+        { search: true }
+      ],
       // Replace with your project's social card
       navbar: {
         title: 'Phynix Project',
