@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkphynix_docs=self.webpackChunkphynix_docs||[]).push([[3048],{328:(e,t,n)=>{n.r(t),n.d(t,{default:()=>r});var c=n(7294);const r=()=>c.createElement(c.Fragment,null,c.createElement("meta",{"http-equiv":"refresh",content:"0; URL=https://discord.gg/DK6Fh6vEBp"}),c.createElement("link",{rel:"canonical",href:"https://discord.gg/DK6Fh6vEBp/"}))}}]);
