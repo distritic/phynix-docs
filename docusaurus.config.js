@@ -33,6 +33,22 @@ const config = {
     locales: ['en'],
   },
 
+  plugins: [
+    [
+      '@docusaurus/plugin-client-redirects',
+      {
+        fromExtensions: ['html', 'htm'], // /myPage.html -> /myPage
+        toExtensions: ['exe', 'zip'], // /myAsset -> /myAsset.zip (if latter exists)
+        redirects: [
+          {
+            to: '/docs/resources/commands/generic',
+            from: '/info',
+          },
+        ],
+      },
+    ],
+  ],
+
   presets: [
     [
       'classic',
